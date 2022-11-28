@@ -25,8 +25,10 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Biocomplexity Institute
+    url: https://biocomplexity.virginia.edu/
+  - name: University of Virginia
+    url: https://www.virginia.edu/
 education:
   courses:
     - course: PhD in Electrical & Computer Engineering
