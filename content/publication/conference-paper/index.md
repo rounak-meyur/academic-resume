@@ -1,79 +1,73 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: "Residential consumers have become active participants in the power
+  distribution network after being equipped with residential EV charging
+  provisions. This creates a challenge for the network operator tasked with
+  dispatching electric power to the residential consumers through the existing
+  distribution network infrastructure in a reliable manner. In this paper, we
+  address the problem of scheduling residential EV charging for multiple
+  consumers while maintaining network reliability. An additional challenge is
+  the restricted exchange of information: where the consumers do not have access
+  to network information and the network operator does not have access to
+  consumer load parameters. We propose a distributed framework which generates
+  an optimal EV charging schedule for individual residential consumers based on
+  their preferences and iteratively updates it until the network reliability
+  constraints set by the operator are satisfied. We validate the proposed
+  approach for different EV adoption levels in a synthetically created digital
+  twin of an actual power distribution network. The results demonstrate that the
+  new approach can achieve a higher level of network reliability compared to the
+  case where residential consumers charge EVs based solely on their individual
+  preferences, thus providing a solution for the existing grid to keep up with
+  increased adoption rates without significant investments in increasing grid
+  capacity."
+slides: ijcai
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
+  - SwapnaThorve
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Equal contribution
+  - Equal contribution
+publication: In Proceedings of the Thirty-First International Joint Conference
+  on Artificial Intelligence, AI for Good track
+summary: Over the past few years, the adoption of electric vehicles are on the
+  rise along with residential provision for EV charging. The EV charging leads
+  to significant change in residential energy consumption pattern where average
+  consumers tend to consume three times the usual demand during the off-peak
+  hours. This creates a challenge for distribution system operator who is tasked
+  with ensuring power grid reliability, since residences tend to suffer from
+  under-voltage problem. Here we propose a distributed approach which evaluates
+  optimal schedule of residential EV charging while avoiding the exchange of
+  private information of consumers.
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_project: ""
+publication_short: In *IJCAI-ECAI*
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://youtube.com
+title: A Reliability-aware Distributed Framework to Schedule Residential
+  Charging of Electric Vehicles
+doi: https://doi.org/10.24963/ijcai.2022/710
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+tags: []
 projects:
   - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+image:
+  caption: Distributed approach to schedule residential EV charging
+  focal_point: ""
+  preview_only: false
+  filename: featured.png
+  alt_text: EV adopters share their preferred energy consumption profile and
+    distribution system operator shares power consumption profile for residences
+    which helps ensure a reliable power grid. The message exchange is carried
+    out until the power consumption profile reaches a consensus. The achieved
+    consensus power consumption schedule is the optimal solution to the problem
+    that can be obtained through the distributed approach.
+date: 2022-07-01T00:00:00.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
