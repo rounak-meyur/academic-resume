@@ -1,6 +1,7 @@
 ---
 title: Rounak Meyur
 role: PhD Candidate in Electrical & Computer Engineering
+avatar_filename: dollysods.jpg
 bio: My research interests include power systems, network science, convex
   optimization and statistical learning.
 interests:
