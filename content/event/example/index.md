@@ -48,8 +48,7 @@ address:
 links: []
 publishDate: 2022-11-09T00:00:00.000Z
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
