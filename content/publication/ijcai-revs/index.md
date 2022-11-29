@@ -52,7 +52,7 @@ url_dataset: https://github.com/rounak-meyur/revs-admm
 url_project: ""
 publication_short: In *IJCAI-ECAI*
 url_source: https://github.com/rounak-meyur/revs-admm
-url_video: https://youtube.com
+url_video: https://www.ijcai.org/proceedings/2022/video/710
 title: A Reliability-aware Distributed Framework to Schedule Residential
   Charging of Electric Vehicles
 doi: https://doi.org/10.24963/ijcai.2022/710
