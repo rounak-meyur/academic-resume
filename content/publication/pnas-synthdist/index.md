@@ -65,7 +65,7 @@ url_source: ""
 url_video: ""
 title: Ensembles of realistic power distribution networks
 doi: https://doi.org/10.1073/pnas.2205772119
-featured: true
+featured: false
 tags: []
 projects: []
 image:
