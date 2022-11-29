@@ -22,7 +22,7 @@ abstract: The power grid is going through significant changes with the
   Engineers (IEEE)) that can be used by network scientists to analyze complex
   events in power grids and to perform detailed sensitivity and statistical
   analyses over ensembles of networks.
-slides: example
+slides: ""
 url_pdf: uploads/pnas-synthdist-paper.pdf
 publication_types:
   - "2"
@@ -66,8 +66,7 @@ url_video: ""
 title: Ensembles of realistic power distribution networks
 doi: https://doi.org/10.1073/pnas.2205772119
 featured: true
-tags:
-  - Source Themes
+tags: []
 projects: []
 image:
   caption: Framework for creating and validating ensembles of synthetic
