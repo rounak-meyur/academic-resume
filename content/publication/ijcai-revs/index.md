@@ -25,7 +25,11 @@ publication_types:
   - "1"
 authors:
   - admin
-  - SwapnaThorve
+  - Swapna Thorve
+  - Madhav Marathe
+  - Anil Vullikanti
+  - Samarth Swarup
+  - Henning Mortveit
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -65,7 +69,7 @@ image:
     that can be obtained through the distributed approach.
 date: 2022-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
