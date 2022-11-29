@@ -24,12 +24,11 @@ abstract: The power grid is going through significant changes with the
   power grid of Washington DC. The results show that realistic representations
   and analysis can lead to fundamentally new insights that are not possible by
   using simplified models.
-slides: uploads/defense-slides.pdf
+slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Frameworks for Realistic Modeling and Analysis of Power Grids
-location: |-
-  Biocomplexity Institute, University of Virginia
+location: Biocomplexity Institute, University of Virginia
 date: 2022-11-15T17:30:00.000Z
 date_end: 2022-11-15T20:00:00.000Z
 all_day: false
@@ -46,11 +45,7 @@ address:
   region: VA
   postcode: "22911"
   country: United States
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 publishDate: 2022-11-09T00:00:00.000Z
 tags: []
 projects:
