@@ -67,7 +67,7 @@ date: 2022-10-11T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: https://github.com/rounak-meyur/synthetic-distribution
 ---
 
 {{% callout note %}}
