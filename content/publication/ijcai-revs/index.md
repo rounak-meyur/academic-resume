@@ -20,7 +20,7 @@ abstract: "Residential consumers have become active participants in the power
   increased adoption rates without significant investments in increasing grid
   capacity."
 slides: ijcai
-url_pdf: "conference-paper.pdf"
+url_pdf: "/conference-paper.pdf"
 publication_types:
   - "1"
 authors:
@@ -48,10 +48,10 @@ summary: Over the past few years, the adoption of electric vehicles are on the
   under-voltage problem. Here we propose a distributed approach which evaluates
   optimal schedule of residential EV charging while avoiding the exchange of
   private information of consumers.
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: https://github.com/rounak-meyur/revs-admm
 url_project: ""
 publication_short: In *IJCAI-ECAI*
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_source: https://github.com/rounak-meyur/revs-admm
 url_video: https://youtube.com
 title: A Reliability-aware Distributed Framework to Schedule Residential
   Charging of Electric Vehicles
