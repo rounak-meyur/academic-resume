@@ -30,8 +30,6 @@ summary: An example talk using Wowchemy's Markdown slides feature.
 title: Frameworks for Realistic Modeling and Analysis of Power Grids
 location: |-
   Biocomplexity Institute, University of Virginia
-  994 Research Park Boulevard, Charlottesville
-  VA 22911
 date: 2022-11-15T17:30:00.000Z
 date_end: 2022-11-15T20:00:00.000Z
 all_day: false
@@ -41,12 +39,12 @@ featured: false
 authors:
   - admin
 url_video: ""
-url_slides: ""
+url_slides: uploads/defense-slides.pdf
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
+  street: 994 Research Park Boulevard
+  city: Charlottesville
+  region: VA
+  postcode: "22911"
   country: United States
 links:
   - icon: twitter
