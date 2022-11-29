@@ -33,6 +33,10 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
 publication: In Proceedings of the Thirty-First International Joint Conference
   on Artificial Intelligence, AI for Good track
 summary: Over the past few years, the adoption of electric vehicles are on the
