@@ -19,8 +19,8 @@ abstract: "Residential consumers have become active participants in the power
   preferences, thus providing a solution for the existing grid to keep up with
   increased adoption rates without significant investments in increasing grid
   capacity."
-slides: ijcai
-url_pdf: "uploads/ijcai-paper.pdf"
+slides: ""
+url_pdf: uploads/ijcai-paper.pdf
 publication_types:
   - "1"
 authors:
@@ -72,9 +72,9 @@ image:
     consensus power consumption schedule is the optimal solution to the problem
     that can be obtained through the distributed approach.
 date: 2022-07-01T00:00:00.000Z
-url_slides: "uploads/ijcai-slides.pdf"
+url_slides: uploads/ijcai-slides.pdf
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: "uploads/ijcai-poster.pdf"
+url_poster: uploads/ijcai-poster.pdf
 url_code: https://github.com/rounak-meyur/revs-admm
 ---
 
