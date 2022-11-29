@@ -17,8 +17,8 @@ subtitle: Develop a framework to create digital duplicates of power distribution
 featured: false
 tags:
   - optimization
-  - distribution networks
-  - network comparison
+  - power systems
+  - networks
 external_link: ""
 url_slides: ""
 links:
