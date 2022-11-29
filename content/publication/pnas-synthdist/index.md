@@ -23,7 +23,7 @@ abstract: The power grid is going through significant changes with the
   events in power grids and to perform detailed sensitivity and statistical
   analyses over ensembles of networks.
 slides: example
-url_pdf: ""
+url_pdf: uploads/pnas-synthdist-paper.pdf
 publication_types:
   - "2"
 authors:
@@ -58,7 +58,7 @@ summary: The availability of power distribution network datasets is essential to
   realistic scale and complexity. These synthetic networks are geographically
   embedded and include realistic residential demand profiles, and thus, they can
   be used to study smart grid applications.
-url_dataset: ""
+url_dataset: https://github.com/rounak-meyur/synthetic-distribution/output
 url_project: ""
 publication_short: PNAS
 url_source: ""
@@ -76,7 +76,7 @@ image:
   preview_only: false
   filename: featured.png
 date: 2022-10-11T00:00:00.000Z
-url_slides: ""
+url_slides: uploads/pnas-synthdist-slides.pdf
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/rounak-meyur/synthetic-distribution
