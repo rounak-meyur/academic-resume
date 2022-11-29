@@ -25,8 +25,16 @@ publication_types:
   - "1"
 authors:
   - admin
-  - SwapnaThorve
+  - Swapna Thorve
+  - Madhav Marathe
+  - Anil Vullikanti
+  - Samarth Swarup
+  - Henning Mortveit
 author_notes:
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
   - Equal contribution
   - Equal contribution
 publication: In Proceedings of the Thirty-First International Joint Conference
@@ -55,7 +63,7 @@ projects:
 image:
   caption: Distributed approach to schedule residential EV charging
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: featured.png
   alt_text: EV adopters share their preferred energy consumption profile and
     distribution system operator shares power consumption profile for residences
@@ -65,7 +73,7 @@ image:
     that can be obtained through the distributed approach.
 date: 2022-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/rounak-meyur/revs-admm
 ---
