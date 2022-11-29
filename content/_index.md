@@ -240,7 +240,6 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: rm5nz@virginia.edu
       phone: +1-540-449-4249
@@ -252,7 +251,7 @@ sections:
         postcode: '22911'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Enter Building and take the elevator to Office 3304 on Floor 3
       office_hours:
         - 'Monday - Friday 10:00 am to 4:00 pm'
       contact_links:

@@ -5,9 +5,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include power systems, network science, convex
   optimization and statistical learning.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Power systems
+  - Convex optimization
+  - Statistical learning
+  - Network science
 social:
   - icon: envelope
     icon_pack: fas
@@ -48,4 +49,7 @@ highlight_name: true
 first_name: Rounak
 email: rm5nz@virginia.edu
 ---
-I {style="text-align: justify;"}
+I am a final year PhD candidate in the Electrical and Computer Engineering Department of University of Virginia. 
+I work as a research assistant in the Biocomplexity Institute under the supervision of Dr. Madhav Marathe. 
+My research includes modeling and analysis of power grid networks and power grid events as realistically as possible. 
+I develop models and frameworks which enable scalable analysis of energy policy questions.
