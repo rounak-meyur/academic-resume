@@ -56,7 +56,7 @@ url_video: https://www.ijcai.org/proceedings/2022/video/710
 title: A Reliability-aware Distributed Framework to Schedule Residential
   Charging of Electric Vehicles
 doi: https://doi.org/10.24963/ijcai.2022/710
-featured: true
+featured: false
 tags: []
 projects:
   - example
