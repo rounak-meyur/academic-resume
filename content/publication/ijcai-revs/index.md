@@ -20,7 +20,7 @@ abstract: "Residential consumers have become active participants in the power
   increased adoption rates without significant investments in increasing grid
   capacity."
 slides: ijcai
-url_pdf: ""
+url_pdf: "conference-paper.pdf"
 publication_types:
   - "1"
 authors:

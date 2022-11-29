@@ -43,9 +43,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Meyur
 highlight_name: true
-first_name: Alice
+first_name: Rounak
 email: rm5nz@virginia.edu
 ---
 I {style="text-align: justify;"}
