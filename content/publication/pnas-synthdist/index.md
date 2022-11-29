@@ -58,7 +58,7 @@ summary: The availability of power distribution network datasets is essential to
   realistic scale and complexity. These synthetic networks are geographically
   embedded and include realistic residential demand profiles, and thus, they can
   be used to study smart grid applications.
-url_dataset: https://github.com/rounak-meyur/synthetic-distribution/output
+url_dataset: https://github.com/rounak-meyur/synthetic-distribution/tree/master/output
 url_project: ""
 publication_short: PNAS
 url_source: ""
