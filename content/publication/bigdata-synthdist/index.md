@@ -43,6 +43,10 @@ abstract: It is well known that physical interdependencies exist between
   to actual power distribution networks at the same location.
 draft: false
 featured: false
+url_pdf: uploads/bigdata-paper.pdf
+url_slides: uploads/bigdata-slides.pdf
+url_poster: uploads/bigdata-poster.pdf
+url_code: https://github.com/rounak-meyur/synthetic-distribution
 image:
   filename: featured
   focal_point: Smart
