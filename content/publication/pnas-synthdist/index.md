@@ -23,7 +23,7 @@ abstract: The power grid is going through significant changes with the
   events in power grids and to perform detailed sensitivity and statistical
   analyses over ensembles of networks.
 slides: example
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ""
 publication_types:
   - "2"
 authors:
