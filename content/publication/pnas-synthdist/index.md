@@ -45,9 +45,19 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: Proceedings of the National Academy of Sciences
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: The availability of power distribution network datasets is essential to
+  researchers when testing different control algorithms prior to their actual
+  implementation and deployment on distribution systems. The proprietary nature
+  of actual distribution system data effectively prevents them from being
+  publicly available for use. Most educators and researchers rely on standard
+  test systems published by Institute of Electrical and Electronics Engineers
+  (IEEE), which neither are representative of actual distribution networks nor
+  provide challenges in terms of the size of actual systems. We develop a
+  framework that employs freely available data to construct ensembles of
+  synthetic distribution networks resembling their physical counterparts with
+  realistic scale and complexity. These synthetic networks are geographically
+  embedded and include realistic residential demand profiles, and thus, they can
+  be used to study smart grid applications.
 url_dataset: ""
 url_project: ""
 publication_short: PNAS
@@ -60,12 +70,14 @@ tags:
   - Source Themes
 projects: []
 image:
-  caption: ""
+  caption: Framework for creating and validating ensembles of synthetic
+    distribution network
   focal_point: ""
   preview_only: false
+  filename: featured.png
 date: 2022-10-11T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
