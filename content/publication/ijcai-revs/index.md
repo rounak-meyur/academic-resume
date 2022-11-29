@@ -59,7 +59,7 @@ projects:
 image:
   caption: Distributed approach to schedule residential EV charging
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: featured.png
   alt_text: EV adopters share their preferred energy consumption profile and
     distribution system operator shares power consumption profile for residences
