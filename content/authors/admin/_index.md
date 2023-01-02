@@ -1,6 +1,7 @@
 ---
 title: Rounak Meyur
-role: PhD Candidate in Electrical & Computer Engineering
+role: Post Doctorate Research Associate in Data Science & Machine Intelligence
+  Group at PNNL
 avatar_filename: avatar.jpg
 bio: My research interests include power systems, network science, convex
   optimization and statistical learning.
