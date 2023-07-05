@@ -40,12 +40,12 @@ url_video: "#"
 doi: https://doi.org/10.1007/978-3-031-36027-5_5
 tags:
   - Source Themes
-date: 2019-04-07T00:00:00Z
+date: 2023-07-05T17:21:34.605Z
 url_slides: ""
 links:
   - name: Custom Link
     url: http://example.org
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
