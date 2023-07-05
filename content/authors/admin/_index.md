@@ -50,7 +50,6 @@ highlight_name: true
 first_name: Rounak
 email: rm5nz@virginia.edu
 ---
-I am a final year PhD candidate in the Electrical and Computer Engineering Department of University of Virginia. 
-I work as a research assistant in the Biocomplexity Institute under the supervision of Dr. Madhav Marathe. 
-My research includes modeling and analysis of power grid networks and power grid events as realistically as possible. 
-I develop models and frameworks which enable scalable analysis of energy policy questions.
+I am a Post Doctorate Research Associate at the Pacific Northwest National Laboratory (PNNL) in Richland, Washington. I work in the Data Science & Machine Intelligence Group of the Physical & Computational Science Directorate. 
+
+M﻿y current research is on planning budget allocation to improve the cybersecurity of the power grid. My research interests include statistical learning, convex optimization and network science
