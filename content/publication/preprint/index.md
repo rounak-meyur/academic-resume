@@ -23,10 +23,9 @@ publication_types:
   - "1"
 authors:
   - admin
-publication: ""
+publication: International Conference on Computational Science
 featured: false
-projects:
-  - internal-project
+projects: []
 image:
   caption: ""
   focal_point: ""
@@ -34,7 +33,7 @@ image:
 summary: ""
 url_dataset: "#"
 url_project: ""
-publication_short: ""
+publication_short: ICCS 2023
 url_source: "#"
 url_video: "#"
 doi: https://doi.org/10.1007/978-3-031-36027-5_5
