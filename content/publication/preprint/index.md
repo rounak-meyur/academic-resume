@@ -1,69 +1,51 @@
 ---
-title: "An example preprint / working paper"
-authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+title: Structural Validation of Synthetic Power Distribution Networks Using the
+  Multiscale Flat Norm
+subtitle: Using computational geometry to compare network structures
+abstract: >-
+  We study the problem of comparing a pair of geometric networks that may not be
+  similarly defined, i.e., when they do not have one-to-one correspondences
+  between their nodes and edges. Our motivating application is to compare power
+  distribution networks of a region. Due to the lack of openly available power
+  network datasets, researchers synthesize realistic networks resembling their
+  actual counterparts. But the synthetic digital twins may vary significantly
+  from one another and from actual networks due to varying underlying
+  assumptions and approaches. Hence the user wants to evaluate the quality of
+  networks in terms of their structural similarity to actual power networks. But
+  the lack of correspondence between the networks renders most standard
+  approaches, e.g., subgraph isomorphism and edit distance, unsuitable.
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
-
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-links:
-- name: Custom Link
-  url: http://example.org
+  We propose an approach based on the multiscale flat norm, a notion of distance between objects defined in the field of geometric measure theory, to compute the distance between a pair of planar geometric networks. Using a triangulation of the domain containing the input networks, the flat norm distance between two networks at a given scale can be computed by solving a linear program. In addition, this computation automatically identifies the 2D regions (patches) that capture where the two networks are different. We demonstrate our approach on a set of actual power networks from a county in the USA. Our approach can be extended to validate synthetic networks created for multiple infrastructures such as transportation, communication, water, and gas networks.
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "1"
+authors:
+  - admin
+publication: ""
+featured: false
+projects:
+  - internal-project
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+summary: ""
+url_dataset: "#"
+url_project: ""
+publication_short: ""
+url_source: "#"
+url_video: "#"
+doi: https://doi.org/10.1007/978-3-031-36027-5_5
+tags:
+  - Source Themes
+date: 2019-04-07T00:00:00Z
+url_slides: ""
+links:
+  - name: Custom Link
+    url: http://example.org
+publishDate: 2017-01-01T00:00:00Z
+url_poster: "#"
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
