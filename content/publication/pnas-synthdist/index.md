@@ -67,7 +67,8 @@ title: Ensembles of realistic power distribution networks
 doi: https://doi.org/10.1073/pnas.2205772119
 featured: false
 tags: []
-projects: []
+projects:
+  - Synthetic Power Distribution Networks
 image:
   caption: Framework for creating and validating ensembles of synthetic
     distribution network
