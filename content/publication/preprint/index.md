@@ -25,7 +25,8 @@ authors:
   - admin
 publication: International Conference on Computational Science
 featured: false
-projects: []
+projects:
+  - Synthetic Power Distribution Networks
 image:
   caption: ""
   focal_point: ""
