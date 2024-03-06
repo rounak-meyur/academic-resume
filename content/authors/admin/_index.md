@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:rounak.meyur@pnnl.gov
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=90SoTUMAAAAJ&hl=en
@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Electrical & Computer Engineering
       institution: University of Virginia
-      year: 2020
+      year: 2022
     - course: MS in Electrical Engineering (Power Systems)
       institution: Virginia Polytechnic & State University
       year: 2019
@@ -52,4 +52,4 @@ email: rm5nz@virginia.edu
 ---
 I am a Post Doctorate Research Associate at the Pacific Northwest National Laboratory (PNNL) in Richland, Washington. I work in the Data Science & Machine Intelligence Group of the Physical & Computational Science Directorate. 
 
-M﻿y current research is on planning budget allocation to improve the cybersecurity of the power grid. My research interests include statistical learning, convex optimization and network science
+My current research is on planning budget allocation to improve the cybersecurity of the power grid. My research interests include statistical learning, convex optimization and network science
