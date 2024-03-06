@@ -241,14 +241,14 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: rm5nz@virginia.edu
+      email: rounak.meyur@pnnl.gov
       phone: +1-540-449-4249
       appointment_url: 'https://calendly.com'
       address:
-        street: 994 Research Park Boulevard
-        city: Charlottesville
-        region: VA
-        postcode: '22911'
+        street: 900 Batelle Blvd
+        city: Richland
+        region: WA
+        postcode: '99354'
         country: United States
         country_code: US
       directions: Enter Building and take the elevator to Office 3304 on Floor 3
