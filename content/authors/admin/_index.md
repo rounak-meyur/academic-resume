@@ -48,7 +48,7 @@ status:
 last_name: Meyur
 highlight_name: true
 first_name: Rounak
-email: rm5nz@virginia.edu
+email: rounak.meyur@pnnl.gov
 ---
 I am a Post Doctorate Research Associate at the Pacific Northwest National Laboratory (PNNL) in Richland, Washington. I work in the Data Science & Machine Intelligence Group of the Physical & Computational Science Directorate. 
 

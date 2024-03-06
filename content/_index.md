@@ -72,8 +72,8 @@ sections:
       items:
         - title: CEO
           company: GenCoin
-          company_url: ''
-          company_logo: org-gc
+          company_url: 'www.pnnl.gov'
+          company_logo: org-pnnl
           location: California
           date_start: '2021-01-01'
           date_end: ''
@@ -83,13 +83,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Post Doctorate RA Artificial Intelligence & Data
+          company: Pacific Northwest National Laboratory
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company_logo: org-pnnl
+          location: Richland, WA, USA
+          date_start: '2023-01-09'
+          date_end: '2023-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
