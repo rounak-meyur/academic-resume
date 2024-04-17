@@ -33,7 +33,7 @@ date: 2022-11-15T17:30:00.000Z
 date_end: 2022-11-15T20:00:00.000Z
 all_day: false
 event: PhD Dissertation Defense of Rounak Meyur
-event_url: https://virginia.zoom.us/j/6953523570
+event_url: https://engineering.virginia.edu/news-events/events/ece-seminar-speaker-dr-rounak-meyur
 featured: false
 authors:
   - admin
