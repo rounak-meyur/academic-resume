@@ -26,13 +26,13 @@ abstract: The power grid is going through significant changes with the
   using simplified models.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: ECE & Contagion Science Seminar at Biocomplexity Institute.
 title: Frameworks for Realistic Modeling and Analysis of Power Grids
 location: Biocomplexity Institute, University of Virginia
-date: 2022-11-15T17:30:00.000Z
-date_end: 2022-11-15T20:00:00.000Z
+date: 2024-04-26T14:00:00.000Z
+date_end: 2024-04-26T15:00:00.000Z
 all_day: false
-event: PhD Dissertation Defense of Rounak Meyur
+event: ECE & Contagion Science Seminar by Dr. Rounak Meyur
 event_url: https://engineering.virginia.edu/news-events/events/ece-seminar-speaker-dr-rounak-meyur
 featured: false
 authors:
@@ -46,7 +46,7 @@ address:
   postcode: "22911"
   country: United States
 links: []
-publishDate: 2022-11-09T00:00:00.000Z
+publishDate: 2024-04-27T00:00:00.000Z
 tags: []
 projects: []
 image:
