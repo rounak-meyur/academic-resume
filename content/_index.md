@@ -52,12 +52,12 @@ sections:
           icon_pack: fab
         - name: Nextflow
           description: 60%
-          icon: chart-line
+          icon: org-nextflow
           icon_pack: fas
-        - name: Photography
+        - name: C++
           description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          icon: c
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
