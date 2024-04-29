@@ -4,7 +4,7 @@ slides: ""
 url_pdf: ""
 summary: "Flash Talk organized at PNNL campus during Tech Fest 2023"
 title: "Fortify Your Defenses: Strategic Budget Allocation to Enhance Power Grid Cybersecurity"
-location: Biocomplexity Institute, University of Virginia
+location: Discovery Hall, PNNL
 date: 2022-11-15T17:30:00.000Z
 date_end: 2022-11-15T20:00:00.000Z
 all_day: false
