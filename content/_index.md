@@ -46,12 +46,12 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Python
+          description: 75%
+          icon: python
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Nextflow
+          description: 60%
           icon: chart-line
           icon_pack: fas
         - name: Photography
@@ -70,27 +70,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Data Scientist
+          company: Pacific Northwest NAtional Laboratory
           company_url: 'www.pnnl.gov'
           company_logo: org-pnnl
-          location: California
-          date_start: '2021-01-01'
+          location: Richland
+          date_start: '2024-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Model generalized framework for optimal budget allocation to prevent adversarial risk in process networks
+              * Develop, deploy and validate analysis algorithms for distribution power grids in OEDI SI platform
+              * Develop generalized workflow framework for single co-design optimization problem 
+              * Develop benchmarking methods for retriever based large language models
         - title: Post Doctorate RA Artificial Intelligence & Data
           company: Pacific Northwest National Laboratory
-          company_url: ''
+          company_url: 'www.pnnl.gov'
           company_logo: org-pnnl
           location: Richland, WA, USA
           date_start: '2023-01-09'
           date_end: '2023-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+            Responsibilities include:
+
+            * Develop hybrid attack graphs for adversarial attack in cyber-physical systems using MITRE ATT&CK framework.
+            * Formulate optimal mitigation to prevent adversarial techniques
+            * Model framework for optimal budget allocation to reduce adversarial risk
     design:
       columns: '2'
   - block: accomplishments
