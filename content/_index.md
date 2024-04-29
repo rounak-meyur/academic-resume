@@ -53,7 +53,6 @@ sections:
         - name: Nextflow
           description: 60%
           icon: org-nextflow
-          icon_pack: fas
         - name: C++
           description: 10%
           icon: c
