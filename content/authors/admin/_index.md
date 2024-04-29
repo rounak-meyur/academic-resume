@@ -1,10 +1,8 @@
 ---
 title: Rounak Meyur
-role: Post Doctorate Research Associate in Data Science & Machine Intelligence
-  Group at PNNL
+role: Data Scientist in Data Science & Machine Intelligence Group at PNNL
 avatar_filename: avatar.jpg
-bio: My research interests include power systems, network science, convex
-  optimization and statistical learning.
+bio: My research interests include power systems, network science, convex optimization and statistical learning.
 interests:
   - Power systems
   - Convex optimization
@@ -27,10 +25,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Biocomplexity Institute
-    url: https://biocomplexity.virginia.edu/
-  - name: University of Virginia
-    url: https://www.virginia.edu/
+  - name: Pacific Northwest National Laboratory
+    url: https://www.pnnl.gov/
 education:
   courses:
     - course: PhD in Electrical & Computer Engineering
@@ -50,6 +46,4 @@ highlight_name: true
 first_name: Rounak
 email: rounak.meyur@pnnl.gov
 ---
-I am a Post Doctorate Research Associate at the Pacific Northwest National Laboratory (PNNL) in Richland, Washington. I work in the Data Science & Machine Intelligence Group of the Physical & Computational Science Directorate. 
-
-My current research is on planning budget allocation to improve the cybersecurity of the power grid. My research interests include statistical learning, convex optimization and network science
+My research interests lie at the intersection of optimization, control, and learning applied to complex networked systems. In particular, my expertise lies in the area of mathematical programming, convex optimization, optimal control, heuristics and approximation algorithms. I apply these techniques to solve problems that arise in enhancing cyber-physical security, creating synthetic networked infrastructure, decarbonization of energy infrastructure systems, and improving resiliency of infrastructure systems.
